@@ -45,6 +45,11 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 			<scope>test</scope>
 		</dependency>
+				<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>pring-boot-starter-tomcat</artifactId>
+			<scope>test</scope>
+		</dependency>
 		<dependency>
 
 		<dependency>
